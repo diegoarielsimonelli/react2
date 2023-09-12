@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deploy_react/static/css/main.992e7d7f.css",
-    "main.js": "/deploy_react/static/js/main.72bff0ce.js",
-    "static/js/787.86584118.chunk.js": "/deploy_react/static/js/787.86584118.chunk.js",
-    "static/media/login_bg.png": "/deploy_react/static/media/login_bg.651e531ccae381b366ff.png",
-    "static/media/spydermanBG.png": "/deploy_react/static/media/spydermanBG.293c34221528cb1b197c.png",
-    "static/media/spyder_web.png": "/deploy_react/static/media/spyder_web.cdc7169481ad7cfac1c1.png",
-    "static/media/inove_logo.png": "/deploy_react/static/media/inove_logo.e5f24c18f253d4856e47.png",
-    "static/media/posteo.svg": "/deploy_react/static/media/posteo.d9f339cccfc4a2cfe37a165544051907.svg",
-    "static/media/marvel.svg": "/deploy_react/static/media/marvel.f64c057bbe349be7d601d4046d296c6c.svg",
-    "index.html": "/deploy_react/index.html",
-    "main.992e7d7f.css.map": "/deploy_react/static/css/main.992e7d7f.css.map",
-    "main.72bff0ce.js.map": "/deploy_react/static/js/main.72bff0ce.js.map",
-    "787.86584118.chunk.js.map": "/deploy_react/static/js/787.86584118.chunk.js.map"
+    "main.css": "/react2/static/css/main.1b95b402.css",
+    "main.js": "/react2/static/js/main.9544a3c9.js",
+    "static/js/787.86584118.chunk.js": "/react2/static/js/787.86584118.chunk.js",
+    "static/media/login_bg.png": "/react2/static/media/login_bg.651e531ccae381b366ff.png",
+    "static/media/spydermanBG.png": "/react2/static/media/spydermanBG.293c34221528cb1b197c.png",
+    "static/media/spyder_web.png": "/react2/static/media/spyder_web.cdc7169481ad7cfac1c1.png",
+    "static/media/inove_logo.png": "/react2/static/media/inove_logo.e5f24c18f253d4856e47.png",
+    "static/media/posteo.svg": "/react2/static/media/posteo.d9f339cccfc4a2cfe37a165544051907.svg",
+    "static/media/marvel.svg": "/react2/static/media/marvel.f64c057bbe349be7d601d4046d296c6c.svg",
+    "index.html": "/react2/index.html",
+    "main.1b95b402.css.map": "/react2/static/css/main.1b95b402.css.map",
+    "main.9544a3c9.js.map": "/react2/static/js/main.9544a3c9.js.map",
+    "787.86584118.chunk.js.map": "/react2/static/js/787.86584118.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.992e7d7f.css",
-    "static/js/main.72bff0ce.js"
+    "static/css/main.1b95b402.css",
+    "static/js/main.9544a3c9.js"
   ]
 }
